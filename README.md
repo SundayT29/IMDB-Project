@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SundayT29
+- 👋 Hi, I’m Timothy
 - 👀 I’m interested in Data Science and ML
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Analysis & Building Models
